@@ -1,13 +1,11 @@
+[![Build Status](https://travis-ci.com/crianonim/FoodMiles.svg?branch=master)](https://travis-ci.com/crianonim/FoodMiles)
+[![codecov](https://codecov.io/gh/crianonim/FoodMiles/branch/master/graph/badge.svg)](https://codecov.io/gh/crianonim/FoodMiles)
+
 # :seedling: [Food Miles](https://food-miles-fac17.herokuapp.com/) :seedling:
 As a user, I need an easy way to find out how local my shopping list is by comparing supermarkets and where they source their food from.
 
 ![](https://media.giphy.com/media/yaxcIHO5OgP4Y/giphy.gif)
 
-[![Build Status](https://travis-ci.com/fac-17/FFFF.svg?branch=master)](https://travis-ci.com/fac-17/FFFF)
-[![codecov](https://codecov.io/gh/fac-17/FFFF/branch/master/graph/badge.svg)](https://codecov.io/gh/fac-17/FFFF)
-[![Dependencies](http://img.shields.io/david/fac-17/FFFF.svg?style=flat)](https://david-dm.org/fac-17/FFFF)
-[![Known Vulnerabilities](https://snyk.io//test/github/fac-17/FFFF/badge.svg?targetFile=package.json)](https://snyk.io//test/github/fac-17/FFFF?targetFile=package.json)
-![Heroku](https://heroku-badge.herokuapp.com/?app=foodmiles)
 
 ## Tech Stack
 1. NodeJS + ExpressJS
